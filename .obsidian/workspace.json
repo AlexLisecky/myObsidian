@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7ecd887427ad7d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6ca822885c09e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6681531cadf9b294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "django/admin/Вывести картинки в админке.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75432b7519f3e61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "668ea0cafc588048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75822b3ea344e0a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2e76615c732ca59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40eca97e5194e9b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3107e23f70b19b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea4a3efebde32ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7366f21f56e09489",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "django/admin/Вывести картинки в админке.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c174e19db376288c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "django/admin/Вывести картинки в админке.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04318420ce6e34ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61d5d1b3b867379c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "django/admin/Вывести картинки в админке.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6681531cadf9b294",
+  "lastOpenFiles": [
+    "django/shell/imports.md",
+    "django/admin/Вывести картинки в админке.md",
+    "django/admin",
+    "python",
+    "docker/shell/help.md",
+    "django/shell/help.md",
+    "django/shell",
+    "django",
+    "linux/shell/help.md",
+    "Без названия.canvas",
+    "2023-06-28.md",
+    "linux/shell",
+    "Без названия.md",
+    "linux",
+    "docker.md",
+    "docker/shell",
+    "docker"
+  ]
+}
