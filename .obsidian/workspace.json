@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django/admin/Вывести картинки в админке.md",
+                "file": "python/shell/help/reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django/admin/Вывести картинки в админке.md",
+                "file": "python/shell/help/reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django/admin/Вывести картинки в админке.md",
+                "file": "python/shell/help/reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "django/admin/Вывести картинки в админке.md"
+                "file": "python/shell/help/reduce.md"
               }
             }
           }
@@ -148,22 +148,28 @@
   },
   "active": "6681531cadf9b294",
   "lastOpenFiles": [
+    "python/shell/help/lambda/Функция reduce.md",
+    "python/shell/help/reduce.md",
+    "python/shell/help/lambda/Функция filter.md",
+    "python/shell/help/lambda/Функция Map.md",
+    "python/shell/help/lambda",
+    "linux/shell/help.md",
     "django/shell/imports.md",
     "django/admin/Вывести картинки в админке.md",
+    "python/shell/help",
+    "python/shell",
     "django/admin",
     "python",
     "docker/shell/help.md",
     "django/shell/help.md",
     "django/shell",
     "django",
-    "linux/shell/help.md",
     "Без названия.canvas",
     "2023-06-28.md",
     "linux/shell",
     "Без названия.md",
     "linux",
     "docker.md",
-    "docker/shell",
-    "docker"
+    "docker/shell"
   ]
 }
