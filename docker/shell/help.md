@@ -11,3 +11,11 @@
 Запустить docker-compose.yml в фоновом режиме(в консоли не будет логов)
 
 	docker-compose up -d
+
+Удалить все не связянные с контейнерами ресурсы(Images, toms, networks)
+
+	docker system prune
+
+Удалить все ресурсы 
+
+	docker system prune -a
