@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/shell/help.md",
+                "file": "js/jQuery/help/Селекторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/shell/help.md",
+                "file": "js/jQuery/help/Селекторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/shell/help.md",
+                "file": "js/jQuery/help/Селекторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/shell/help.md"
+                "file": "js/jQuery/help/Селекторы.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "198ba78c31b757e7",
+  "active": "75822b3ea344e0a8",
   "lastOpenFiles": [
+    "js/jQuery",
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "js/jQuery/help/Селекторы.md",
+    "js/jQuery/help",
+    "docker/shell/help.md",
+    "js/jQuery/example",
+    "js",
     "django/models/Примеры Абстрактных моделей/СЕО.md",
     "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
     "django/models/Абстрактные модели.md",
@@ -172,16 +179,11 @@
     "python/shell/help/lambda/Функция filter.md",
     "python/shell/help/Функция Reduce.md",
     "python/shell/help/lambda/Функция reduce.md",
-    "docker/shell/help.md",
     "python/shell/help/lambda",
     "python/shell/help",
     "python/shell",
-    "django/admin",
-    "python",
-    "django/shell",
     "Без названия.canvas",
     "2023-06-28.md",
-    "Без названия.md",
-    "docker.md"
+    "Без названия.md"
   ]
 }
