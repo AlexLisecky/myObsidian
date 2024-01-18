@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/jQuery/help/Селекторы.md",
+                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/jQuery/help/Селекторы.md",
+                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/jQuery/help/Селекторы.md",
+                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/jQuery/help/Селекторы.md"
+                "file": "linux/shell/Быстрое подключение к серверу по ssh.md"
               }
             }
           }
@@ -146,23 +146,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "75822b3ea344e0a8",
+  "active": "198ba78c31b757e7",
   "lastOpenFiles": [
-    "js/jQuery",
+    "linux/shell/help.md",
+    "linux/shell/Быстрое подключение к серверу по ssh.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
+    "css/Фишки/Вдавленный текст.md",
+    "Imgs/css/Вдвленный текст.png",
+    "css/Screenshot from 2023-12-26 13-12-32.png",
+    "Imgs/css",
+    "Imgs",
+    "postgresql/help/Базовые команды Postgreql.md",
+    "css/Фишки",
+    "css",
+    "html",
+    "python/sqlalchemy",
     "js/jQuery/help/Селекторы.md",
+    "postgresql/help",
+    "postgresql",
+    "js/jQuery",
     "js/jQuery/help",
     "docker/shell/help.md",
-    "js/jQuery/example",
-    "js",
     "django/models/Примеры Абстрактных моделей/СЕО.md",
     "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
     "django/models/Абстрактные модели.md",
     "django/models/Примеры Абстрактных моделей/Дата создания и обновления.md",
     "django/shell/Контекстные процессоры.md",
-    "django/models/Примеры Абстрактных моделей",
-    "django/models",
-    "linux/shell/help.md",
     "django/shell/Урлы.md",
     "README.md",
     "django/views/ContextMixin.md",
@@ -172,18 +181,11 @@
     "django/shell/imports.md",
     "django/admin/Вывести картинку ImageField.md",
     "django/middleware/RedirectMiddleware.md",
-    "django/middleware",
-    "django/views",
     "python/shell/help/Распаковка последовательностей.md",
     "python/shell/help/lambda/Функция Map.md",
     "python/shell/help/lambda/Функция filter.md",
     "python/shell/help/Функция Reduce.md",
     "python/shell/help/lambda/Функция reduce.md",
-    "python/shell/help/lambda",
-    "python/shell/help",
-    "python/shell",
-    "Без названия.canvas",
-    "2023-06-28.md",
-    "Без названия.md"
+    "Без названия.canvas"
   ]
 }
