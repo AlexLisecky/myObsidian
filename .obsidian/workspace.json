@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/shell/Удалить образ Docker.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/shell/Удалить образ Docker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/shell/Удалить образ Docker.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/shell/Удалить образ Docker.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "198ba78c31b757e7",
   "lastOpenFiles": [
-    "docker/shell/help.md",
     "docker/shell/Удалить образ Docker.md",
+    "docker/shell/help.md",
     "linux/shell/Быстрое подключение к серверу по ssh.md",
     "linux/shell/help.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
