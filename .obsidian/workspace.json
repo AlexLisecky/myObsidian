@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
+                "file": "docker/shell/Удалить образ Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
+                "file": "docker/shell/Удалить образ Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/shell/Быстрое подключение к серверу по ssh.md",
+                "file": "docker/shell/Удалить образ Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/shell/Быстрое подключение к серверу по ssh.md"
+                "file": "docker/shell/Удалить образ Docker.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "198ba78c31b757e7",
   "lastOpenFiles": [
-    "linux/shell/help.md",
+    "docker/shell/help.md",
+    "docker/shell/Удалить образ Docker.md",
     "linux/shell/Быстрое подключение к серверу по ssh.md",
+    "linux/shell/help.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
     "css/Фишки/Вдавленный текст.md",
     "Imgs/css/Вдвленный текст.png",
@@ -166,7 +168,6 @@
     "postgresql",
     "js/jQuery",
     "js/jQuery/help",
-    "docker/shell/help.md",
     "django/models/Примеры Абстрактных моделей/СЕО.md",
     "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
     "django/models/Абстрактные модели.md",
@@ -185,7 +186,6 @@
     "python/shell/help/lambda/Функция Map.md",
     "python/shell/help/lambda/Функция filter.md",
     "python/shell/help/Функция Reduce.md",
-    "python/shell/help/lambda/Функция reduce.md",
     "Без названия.canvas"
   ]
 }
