@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "js/jQuery/help/Методы DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "js/jQuery/help/Методы DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "js/jQuery/help/Методы DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "js/jQuery/help/Методы DOM.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "198ba78c31b757e7",
   "lastOpenFiles": [
+    "js/jQuery/help/События.md",
+    "js/jQuery/help/Методы DOM.md",
+    "js/jQuery/help/Селекторы.md",
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "README.md",
     "docker/shell/Удалить образ Docker.md",
     "docker/shell/help.md",
     "linux/shell/Быстрое подключение к серверу по ssh.md",
     "linux/shell/help.md",
-    "js/jQuery/example/Валидация формы на jQuery.md",
     "css/Фишки/Вдавленный текст.md",
     "Imgs/css/Вдвленный текст.png",
     "css/Screenshot from 2023-12-26 13-12-32.png",
@@ -163,7 +167,6 @@
     "css",
     "html",
     "python/sqlalchemy",
-    "js/jQuery/help/Селекторы.md",
     "postgresql/help",
     "postgresql",
     "js/jQuery",
@@ -174,7 +177,6 @@
     "django/models/Примеры Абстрактных моделей/Дата создания и обновления.md",
     "django/shell/Контекстные процессоры.md",
     "django/shell/Урлы.md",
-    "README.md",
     "django/views/ContextMixin.md",
     "django/views/TemplateView.md",
     "django/shell/Команды.md",
@@ -184,8 +186,6 @@
     "django/middleware/RedirectMiddleware.md",
     "python/shell/help/Распаковка последовательностей.md",
     "python/shell/help/lambda/Функция Map.md",
-    "python/shell/help/lambda/Функция filter.md",
-    "python/shell/help/Функция Reduce.md",
     "Без названия.canvas"
   ]
 }
