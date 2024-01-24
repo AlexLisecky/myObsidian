@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/jQuery/help/Методы DOM.md",
+                "file": "python/Модуль collections/Deque(Очередь).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/jQuery/help/Методы DOM.md",
+                "file": "python/Модуль collections/Deque(Очередь).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/jQuery/help/Методы DOM.md",
+                "file": "python/Модуль collections/Deque(Очередь).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/jQuery/help/Методы DOM.md"
+                "file": "python/Модуль collections/Deque(Очередь).md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "198ba78c31b757e7",
   "lastOpenFiles": [
-    "js/jQuery/help/События.md",
+    "python/Классы/Форматирование вывода.md",
+    "python/Модуль collections/Deque(Очередь).md",
+    "python/Модуль collections",
+    "python/Классы/Изменение строкового представления экземпляра.md",
     "js/jQuery/help/Методы DOM.md",
+    "python/Классы",
+    "python/Без названия.md",
+    "js/jQuery/help/События.md",
     "js/jQuery/help/Селекторы.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
     "README.md",
@@ -169,8 +175,6 @@
     "python/sqlalchemy",
     "postgresql/help",
     "postgresql",
-    "js/jQuery",
-    "js/jQuery/help",
     "django/models/Примеры Абстрактных моделей/СЕО.md",
     "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
     "django/models/Абстрактные модели.md",
@@ -182,10 +186,6 @@
     "django/shell/Команды.md",
     "django/shell/Настройки для статики и медиа файлов.md",
     "django/shell/imports.md",
-    "django/admin/Вывести картинку ImageField.md",
-    "django/middleware/RedirectMiddleware.md",
-    "python/shell/help/Распаковка последовательностей.md",
-    "python/shell/help/lambda/Функция Map.md",
     "Без названия.canvas"
   ]
 }
