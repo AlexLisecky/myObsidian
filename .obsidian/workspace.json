@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Модуль collections/Deque(Очередь).md",
+                "file": "python/Классы/База/Базовое смешивание классов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Модуль collections/Deque(Очередь).md",
+                "file": "python/Классы/База/Базовое смешивание классов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Модуль collections/Deque(Очередь).md",
+                "file": "python/Классы/База/Базовое смешивание классов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Модуль collections/Deque(Очередь).md"
+                "file": "python/Классы/База/Базовое смешивание классов.md"
               }
             }
           }
@@ -148,23 +148,31 @@
   },
   "active": "198ba78c31b757e7",
   "lastOpenFiles": [
+    "python/Классы/База/Самый просто пример класса.md",
+    "python/Классы/База/Базовое смешивание классов.md",
+    "python/Классы/База/Получение списка названий методов класса или атрибутов экземпляра класса.md",
     "python/Классы/Форматирование вывода.md",
+    "python/Классы/Изменение строкового представления экземпляра.md",
+    "docker/shell/Удалить образ Docker.md",
+    "python/Классы/База",
+    "docker/shell/help.md",
+    "django/shell/Урлы.md",
+    "django/shell/Контекстные процессоры.md",
+    "django/shell/Настройки для статики и медиа файлов.md",
+    "django/shell/Команды.md",
+    "Imgs/css/Вдвленный текст.png",
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "linux/shell/help.md",
+    "linux/shell/Быстрое подключение к серверу по ssh.md",
     "python/Модуль collections/Deque(Очередь).md",
     "python/Модуль collections",
-    "python/Классы/Изменение строкового представления экземпляра.md",
     "js/jQuery/help/Методы DOM.md",
     "python/Классы",
     "python/Без названия.md",
     "js/jQuery/help/События.md",
     "js/jQuery/help/Селекторы.md",
-    "js/jQuery/example/Валидация формы на jQuery.md",
     "README.md",
-    "docker/shell/Удалить образ Docker.md",
-    "docker/shell/help.md",
-    "linux/shell/Быстрое подключение к серверу по ssh.md",
-    "linux/shell/help.md",
     "css/Фишки/Вдавленный текст.md",
-    "Imgs/css/Вдвленный текст.png",
     "css/Screenshot from 2023-12-26 13-12-32.png",
     "Imgs/css",
     "Imgs",
@@ -174,18 +182,10 @@
     "html",
     "python/sqlalchemy",
     "postgresql/help",
-    "postgresql",
     "django/models/Примеры Абстрактных моделей/СЕО.md",
     "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
     "django/models/Абстрактные модели.md",
     "django/models/Примеры Абстрактных моделей/Дата создания и обновления.md",
-    "django/shell/Контекстные процессоры.md",
-    "django/shell/Урлы.md",
-    "django/views/ContextMixin.md",
-    "django/views/TemplateView.md",
-    "django/shell/Команды.md",
-    "django/shell/Настройки для статики и медиа файлов.md",
-    "django/shell/imports.md",
     "Без названия.canvas"
   ]
 }
