@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d07e161ca0ab1c41",
+        "id": "61ad73752be971ad",
         "type": "tabs",
         "children": [
           {
-            "id": "198ba78c31b757e7",
+            "id": "df1ce9064976c56e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Классы/База/Базовое смешивание классов.md",
+                "file": "git/Игнорирование файлов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Классы/База/Базовое смешивание классов.md",
+                "file": "git/Игнорирование файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Классы/База/Базовое смешивание классов.md",
+                "file": "git/Игнорирование файлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Классы/База/Базовое смешивание классов.md"
+                "file": "git/Игнорирование файлов.md"
               }
             }
           }
@@ -146,13 +146,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "198ba78c31b757e7",
+  "active": "df1ce9064976c56e",
   "lastOpenFiles": [
+    "git/Проверка состояния репозитория.md",
+    "git/Игнорирование файлов.md",
+    "git/Добавление новых файлов под версионный контроль.md",
+    "git/Клонирование репозитория.md",
+    "git/Создание GIT репозитория.md",
+    "Руководство по оформлению Markdown файлов.md",
+    "git",
+    "postgresql/help/Базовые команды Postgreql.md",
     "python/Классы/База/Самый просто пример класса.md",
-    "python/Классы/База/Базовое смешивание классов.md",
     "python/Классы/База/Получение списка названий методов класса или атрибутов экземпляра класса.md",
+    "python/Классы/База/Базовое смешивание классов.md",
     "python/Классы/Форматирование вывода.md",
     "python/Классы/Изменение строкового представления экземпляра.md",
+    "python/Логирование.md",
+    "python/Модуль collections/Deque(Очередь).md",
     "docker/shell/Удалить образ Docker.md",
     "python/Классы/База",
     "docker/shell/help.md",
@@ -164,28 +174,18 @@
     "js/jQuery/example/Валидация формы на jQuery.md",
     "linux/shell/help.md",
     "linux/shell/Быстрое подключение к серверу по ssh.md",
-    "python/Модуль collections/Deque(Очередь).md",
     "python/Модуль collections",
     "js/jQuery/help/Методы DOM.md",
     "python/Классы",
-    "python/Без названия.md",
     "js/jQuery/help/События.md",
     "js/jQuery/help/Селекторы.md",
-    "README.md",
-    "css/Фишки/Вдавленный текст.md",
     "css/Screenshot from 2023-12-26 13-12-32.png",
     "Imgs/css",
     "Imgs",
-    "postgresql/help/Базовые команды Postgreql.md",
     "css/Фишки",
     "css",
     "html",
     "python/sqlalchemy",
-    "postgresql/help",
-    "django/models/Примеры Абстрактных моделей/СЕО.md",
-    "django/models/Примеры Абстрактных моделей/Модель Изображения.md",
-    "django/models/Абстрактные модели.md",
-    "django/models/Примеры Абстрактных моделей/Дата создания и обновления.md",
     "Без названия.canvas"
   ]
 }
