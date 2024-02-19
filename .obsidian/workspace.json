@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Игнорирование файлов.md",
+                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Игнорирование файлов.md",
+                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Игнорирование файлов.md",
+                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Игнорирование файлов.md"
+                "file": "django/templates/Разделение чисел (100000 -> 100 000).md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "df1ce9064976c56e",
   "lastOpenFiles": [
-    "git/Проверка состояния репозитория.md",
+    "django/templates/Переопределение стандартных форматов даты и времени.md",
+    "django/templates/Разделение чисел (100000 -> 100 000).md",
+    "Руководство по оформлению Markdown файлов.md",
+    "django/middleware/RedirectMiddleware.md",
+    "django/templates",
+    "django/admin/Вывести картинку ImageField.md",
+    "docker/shell/help.md",
+    "docker/shell/Удалить образ Docker.md",
     "git/Игнорирование файлов.md",
+    "git/Проверка состояния репозитория.md",
     "git/Добавление новых файлов под версионный контроль.md",
     "git/Клонирование репозитория.md",
     "git/Создание GIT репозитория.md",
-    "Руководство по оформлению Markdown файлов.md",
     "git",
     "postgresql/help/Базовые команды Postgreql.md",
     "python/Классы/База/Самый просто пример класса.md",
@@ -163,9 +170,7 @@
     "python/Классы/Изменение строкового представления экземпляра.md",
     "python/Логирование.md",
     "python/Модуль collections/Deque(Очередь).md",
-    "docker/shell/Удалить образ Docker.md",
     "python/Классы/База",
-    "docker/shell/help.md",
     "django/shell/Урлы.md",
     "django/shell/Контекстные процессоры.md",
     "django/shell/Настройки для статики и медиа файлов.md",
@@ -173,19 +178,14 @@
     "Imgs/css/Вдвленный текст.png",
     "js/jQuery/example/Валидация формы на jQuery.md",
     "linux/shell/help.md",
-    "linux/shell/Быстрое подключение к серверу по ssh.md",
     "python/Модуль collections",
-    "js/jQuery/help/Методы DOM.md",
     "python/Классы",
-    "js/jQuery/help/События.md",
-    "js/jQuery/help/Селекторы.md",
     "css/Screenshot from 2023-12-26 13-12-32.png",
     "Imgs/css",
     "Imgs",
     "css/Фишки",
     "css",
     "html",
-    "python/sqlalchemy",
     "Без названия.canvas"
   ]
 }
