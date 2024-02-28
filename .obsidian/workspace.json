@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
+                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
+                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django/templates/Разделение чисел (100000 -> 100 000).md",
+                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "django/templates/Разделение чисел (100000 -> 100 000).md"
+                "file": "css/Фишки/Точки между двумя элементами(оглавление).md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "df1ce9064976c56e",
   "lastOpenFiles": [
-    "django/templates/Переопределение стандартных форматов даты и времени.md",
+    "django/admin/Django ACE - редактор HTML CSS.md",
+    "css/Фишки/Точки между двумя элементами(оглавление).md",
     "django/templates/Разделение чисел (100000 -> 100 000).md",
+    "django/templates/Переопределение стандартных форматов даты и времени.md",
+    "django/admin/Вывести картинку ImageField.md",
     "Руководство по оформлению Markdown файлов.md",
     "django/middleware/RedirectMiddleware.md",
     "django/templates",
-    "django/admin/Вывести картинку ImageField.md",
     "docker/shell/help.md",
     "docker/shell/Удалить образ Docker.md",
     "git/Игнорирование файлов.md",
@@ -176,8 +178,6 @@
     "django/shell/Настройки для статики и медиа файлов.md",
     "django/shell/Команды.md",
     "Imgs/css/Вдвленный текст.png",
-    "js/jQuery/example/Валидация формы на jQuery.md",
-    "linux/shell/help.md",
     "python/Модуль collections",
     "python/Классы",
     "css/Screenshot from 2023-12-26 13-12-32.png",
