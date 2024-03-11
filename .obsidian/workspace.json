@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61ad73752be971ad",
+        "id": "3658a6d4fedc25be",
         "type": "tabs",
         "children": [
           {
-            "id": "df1ce9064976c56e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46e9a1a7fba53925",
+            "id": "6d1cc5210e240362",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,20 +146,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "46e9a1a7fba53925",
+  "active": "6d1cc5210e240362",
   "lastOpenFiles": [
-    "js/jQuery/example/Валидация формы на jQuery.md",
-    "docker/Установка Docker и Docker-compose на Ubuntu.md",
-    "django/admin/Django ACE - редактор HTML CSS.md",
+    "Руководство по оформлению Markdown файлов.md",
     "css/Фишки/Точки между двумя элементами(оглавление).md",
+    "docker/Установка Docker и Docker-compose на Ubuntu.md",
+    "docker/shell/Удалить образ Docker.md",
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "django/admin/Django ACE - редактор HTML CSS.md",
     "django/templates/Разделение чисел (100000 -> 100 000).md",
     "django/templates/Переопределение стандартных форматов даты и времени.md",
     "django/admin/Вывести картинку ImageField.md",
-    "Руководство по оформлению Markdown файлов.md",
     "django/middleware/RedirectMiddleware.md",
     "django/templates",
     "docker/shell/help.md",
-    "docker/shell/Удалить образ Docker.md",
     "git/Игнорирование файлов.md",
     "git/Проверка состояния репозитория.md",
     "git/Добавление новых файлов под версионный контроль.md",
