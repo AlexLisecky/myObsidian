@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46e9a1a7fba53925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
+                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/Фишки/Точки между двумя элементами(оглавление).md",
+                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/Фишки/Точки между двумя элементами(оглавление).md"
+                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "df1ce9064976c56e",
+  "active": "46e9a1a7fba53925",
   "lastOpenFiles": [
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "docker/Установка Docker и Docker-compose на Ubuntu.md",
     "django/admin/Django ACE - редактор HTML CSS.md",
     "css/Фишки/Точки между двумя элементами(оглавление).md",
     "django/templates/Разделение чисел (100000 -> 100 000).md",
@@ -175,8 +190,6 @@
     "python/Классы/База",
     "django/shell/Урлы.md",
     "django/shell/Контекстные процессоры.md",
-    "django/shell/Настройки для статики и медиа файлов.md",
-    "django/shell/Команды.md",
     "Imgs/css/Вдвленный текст.png",
     "python/Модуль collections",
     "python/Классы",
