@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
+                "file": "django/admin/Изменение выбора цвета.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
+                "file": "django/admin/Изменение выбора цвета.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md",
+                "file": "django/admin/Изменение выбора цвета.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Установка Docker и Docker-compose на Ubuntu.md"
+                "file": "django/admin/Изменение выбора цвета.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "6d1cc5210e240362",
   "lastOpenFiles": [
+    "django/admin/Django ACE - редактор HTML CSS.md",
+    "django/admin/Изменение выбора цвета.md",
+    "django/admin/Вывести картинку ImageField.md",
+    "docker/Установка Docker и Docker-compose на Ubuntu.md",
     "Руководство по оформлению Markdown файлов.md",
     "css/Фишки/Точки между двумя элементами(оглавление).md",
-    "docker/Установка Docker и Docker-compose на Ubuntu.md",
     "docker/shell/Удалить образ Docker.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
-    "django/admin/Django ACE - редактор HTML CSS.md",
     "django/templates/Разделение чисел (100000 -> 100 000).md",
     "django/templates/Переопределение стандартных форматов даты и времени.md",
-    "django/admin/Вывести картинку ImageField.md",
     "django/middleware/RedirectMiddleware.md",
     "django/templates",
     "docker/shell/help.md",
@@ -176,7 +177,6 @@
     "python/Модуль collections/Deque(Очередь).md",
     "python/Классы/База",
     "django/shell/Урлы.md",
-    "django/shell/Контекстные процессоры.md",
     "Imgs/css/Вдвленный текст.png",
     "python/Модуль collections",
     "python/Классы",
