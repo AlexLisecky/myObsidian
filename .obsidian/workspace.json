@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
+                "file": "django/views/TemplateView.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
+                "file": "django/views/TemplateView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
+                "file": "django/views/TemplateView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md"
+                "file": "django/views/TemplateView.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6d1cc5210e240362",
   "lastOpenFiles": [
-    "python/Библиотеки/Модуль requests/1.1 Создание запроса.md",
     "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
+    "python/Библиотеки/Модуль requests/1.1 Создание запроса.md",
     "Руководство по оформлению Markdown файлов.md",
     "django/admin/Django ACE - редактор HTML CSS.md",
     "docker/Установка Docker и Docker-compose на Ubuntu.md",
