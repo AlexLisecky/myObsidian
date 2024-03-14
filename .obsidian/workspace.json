@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django/admin/Изменение выбора цвета.md",
+                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django/admin/Изменение выбора цвета.md",
+                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django/admin/Изменение выбора цвета.md",
+                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "django/admin/Изменение выбора цвета.md"
+                "file": "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md"
               }
             }
           }
@@ -148,11 +148,25 @@
   },
   "active": "6d1cc5210e240362",
   "lastOpenFiles": [
+    "python/Библиотеки/Модуль requests/1.1 Создание запроса.md",
+    "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
+    "Руководство по оформлению Markdown файлов.md",
     "django/admin/Django ACE - редактор HTML CSS.md",
+    "docker/Установка Docker и Docker-compose на Ubuntu.md",
+    "git/Добавление новых файлов под версионный контроль.md",
+    "python/Библиотеки/Модуль requests/1.0 База.md",
+    "python/Библиотеки/Модуль requests/1.1 Установка.md",
+    "python/Библиотеки/Модуль collections/Deque(Очередь).md",
+    "git/Создание GIT репозитория.md",
+    "python/Библиотеки/Модуль requests",
+    "python/Библиотеки",
+    "git/Проверка состояния репозитория.md",
+    "git/Клонирование репозитория.md",
+    "git/Игнорирование файлов.md",
+    "django/views/TemplateView.md",
+    "django/views/ContextMixin.md",
     "django/admin/Изменение выбора цвета.md",
     "django/admin/Вывести картинку ImageField.md",
-    "docker/Установка Docker и Docker-compose на Ubuntu.md",
-    "Руководство по оформлению Markdown файлов.md",
     "css/Фишки/Точки между двумя элементами(оглавление).md",
     "docker/shell/Удалить образ Docker.md",
     "js/jQuery/example/Валидация формы на jQuery.md",
@@ -161,31 +175,17 @@
     "django/middleware/RedirectMiddleware.md",
     "django/templates",
     "docker/shell/help.md",
-    "git/Игнорирование файлов.md",
-    "git/Проверка состояния репозитория.md",
-    "git/Добавление новых файлов под версионный контроль.md",
-    "git/Клонирование репозитория.md",
-    "git/Создание GIT репозитория.md",
     "git",
     "postgresql/help/Базовые команды Postgreql.md",
     "python/Классы/База/Самый просто пример класса.md",
-    "python/Классы/База/Получение списка названий методов класса или атрибутов экземпляра класса.md",
-    "python/Классы/База/Базовое смешивание классов.md",
-    "python/Классы/Форматирование вывода.md",
-    "python/Классы/Изменение строкового представления экземпляра.md",
-    "python/Логирование.md",
-    "python/Модуль collections/Deque(Очередь).md",
     "python/Классы/База",
-    "django/shell/Урлы.md",
     "Imgs/css/Вдвленный текст.png",
-    "python/Модуль collections",
+    "python/Библиотеки/Модуль collections",
     "python/Классы",
     "css/Screenshot from 2023-12-26 13-12-32.png",
     "Imgs/css",
     "Imgs",
     "css/Фишки",
-    "css",
-    "html",
     "Без названия.canvas"
   ]
 }
