@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3658a6d4fedc25be",
+        "id": "4b8f6ea57ff4a5ae",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1cc5210e240362",
+            "id": "706b790e472abae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django/views/TemplateView.md",
+                "file": "python/Библиотеки/Модуль sys/1.0 База.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django/views/TemplateView.md",
+                "file": "python/Библиотеки/Модуль sys/1.0 База.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django/views/TemplateView.md",
+                "file": "python/Библиотеки/Модуль sys/1.0 База.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "django/views/TemplateView.md"
+                "file": "python/Библиотеки/Модуль sys/1.0 База.md"
               }
             }
           }
@@ -146,30 +146,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6d1cc5210e240362",
+  "active": "706b790e472abae1",
   "lastOpenFiles": [
+    "js/jQuery/example/Валидация формы на jQuery.md",
+    "python/Библиотеки/Модуль sys/1.0 База.md",
+    "python/Библиотеки/Модуль sys",
+    "git/Добавление новых файлов под версионный контроль.md",
+    "git/Игнорирование файлов.md",
+    "git/Клонирование репозитория.md",
+    "git/Проверка состояния репозитория.md",
+    "git/Создание GIT репозитория.md",
+    "css/Фишки/Точки между двумя элементами(оглавление).md",
+    "django/admin/Изменение выбора цвета.md",
+    "django/admin/Вывести картинку ImageField.md",
+    "django/admin/Django ACE - редактор HTML CSS.md",
+    "django/views/TemplateView.md",
     "python/Библиотеки/Модуль requests/1.2 Продвинутые запросы.md",
     "python/Библиотеки/Модуль requests/1.1 Создание запроса.md",
     "Руководство по оформлению Markdown файлов.md",
-    "django/admin/Django ACE - редактор HTML CSS.md",
     "docker/Установка Docker и Docker-compose на Ubuntu.md",
-    "git/Добавление новых файлов под версионный контроль.md",
     "python/Библиотеки/Модуль requests/1.0 База.md",
     "python/Библиотеки/Модуль requests/1.1 Установка.md",
     "python/Библиотеки/Модуль collections/Deque(Очередь).md",
-    "git/Создание GIT репозитория.md",
     "python/Библиотеки/Модуль requests",
     "python/Библиотеки",
-    "git/Проверка состояния репозитория.md",
-    "git/Клонирование репозитория.md",
-    "git/Игнорирование файлов.md",
-    "django/views/TemplateView.md",
     "django/views/ContextMixin.md",
-    "django/admin/Изменение выбора цвета.md",
-    "django/admin/Вывести картинку ImageField.md",
-    "css/Фишки/Точки между двумя элементами(оглавление).md",
     "docker/shell/Удалить образ Docker.md",
-    "js/jQuery/example/Валидация формы на jQuery.md",
     "django/templates/Разделение чисел (100000 -> 100 000).md",
     "django/templates/Переопределение стандартных форматов даты и времени.md",
     "django/middleware/RedirectMiddleware.md",
@@ -177,7 +179,6 @@
     "docker/shell/help.md",
     "git",
     "postgresql/help/Базовые команды Postgreql.md",
-    "python/Классы/База/Самый просто пример класса.md",
     "python/Классы/База",
     "Imgs/css/Вдвленный текст.png",
     "python/Библиотеки/Модуль collections",
@@ -185,7 +186,6 @@
     "css/Screenshot from 2023-12-26 13-12-32.png",
     "Imgs/css",
     "Imgs",
-    "css/Фишки",
     "Без названия.canvas"
   ]
 }
